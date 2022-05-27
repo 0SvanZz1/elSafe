@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import time
 import pytz
 from datetime import datetime
